@@ -1,0 +1,11 @@
+Django>=6.0
+djangorestframework
+django-cors-headers
+openpyxl
+pdfplumber
+pydantic>=2
+python-dotenv
+langchain-core
+langchain
+langchain-openai
+djangorestframework-simplejwt
